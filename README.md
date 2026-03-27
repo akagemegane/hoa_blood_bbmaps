@@ -5,6 +5,6 @@ Rather than a dump of maps found over on the internet like many collections do, 
 
 As of 2026, You can play NotBlood multiplayer with people over at [NukemNet](https://nukemnet.com/home). Join their [Discord](https://discord.gg/AmJXc8PuNS) to catch game activities.
 
-BB = Bloodbath Levels
-TEAMS = Teams Levels
-SW = Shareware Converted Levels
+BB = 'Bloodbath Levels' <br>
+TEAMS = 'Teams Levels' <br>
+SW = 'Shareware Converted Levels'
