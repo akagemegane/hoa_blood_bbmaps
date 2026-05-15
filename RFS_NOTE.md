@@ -1,4 +1,6 @@
-Files that are named ExMxF.map are simply stock levels with the exit switches removed to avoid early exits in multiplayer.
+To disable exit switches in Refreshe Supply use this command :
+
+sv_allowExits 0 
 
 List of maps that do not work with Refreshed Supply
 
